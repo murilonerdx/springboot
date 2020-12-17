@@ -20,4 +20,11 @@ public class PrimeiroController {
 		return "Saudação amigo!!";
 	}
 	
+	@RequestMapping(method = RequestMethod.GET, path = "/")
+	public String index() {
+		return "Pagina Inicial";
+	}
+	
+	
+	
 }
