@@ -19,9 +19,6 @@ Basico de Spring Boot, usando @RequestMapping, @PostMapping(), @RestController, 
 - [Maven 3](https://maven.apache.org)
 
 ```shell
-mvn spring-boot:run
-
-```shell
 ./mvnw spring-boot:run
 ```
 --------
