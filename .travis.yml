@@ -1,8 +1,6 @@
 language: java
-sudo: false
 
 jdk:
   - oraclejdk11
 
-after_success:
-  - ./mvnw clean install
+
