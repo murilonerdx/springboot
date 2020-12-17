@@ -34,12 +34,12 @@ http://localhost:8080/ola
 http://localhost:8080/api/produtos
 ```
 
-JSON Response:
+JSON Request:
 
 ```json
 [{"nome":"Murilo", "preco": 40.00, "desconto": 0.05}]
 ```
-### Resultado
+JSON Response:
 ```json
 [{"id": 8,"nome": "Abacate","preco": 40.0,"desconto": 0.05,"precoDesconto": 38.0}]
 ```
