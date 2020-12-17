@@ -1,6 +1,8 @@
 # springboot
 ---
 Basico de Spring Boot, usando @RequestMapping, @PostMapping(), @RestController, @RestController, @GetMapping(path = "/qualquer")
+
+[![Build Status](https://travis-ci.org/murilonerdx/springboot.svg?branch=main)](https://travis-ci.org/murilonerdx/springboot)
 ---
 - MAVEN & POM.XML
 - Web Service
