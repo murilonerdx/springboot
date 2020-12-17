@@ -4,6 +4,7 @@ Basico de Spring Boot, usando @RequestMapping, @PostMapping(), @RestController, 
 
 [![Build Status](https://travis-ci.org/murilonerdx/springboot.svg?branch=main)](https://travis-ci.org/murilonerdx/springboot)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+<img src="https://img.shields.io/badge/Java-v11-orange.svg" />
 ---
 - MAVEN & POM.XML
 - Web Service
@@ -18,7 +19,7 @@ Basico de Spring Boot, usando @RequestMapping, @PostMapping(), @RestController, 
 --------
 # Versões suportadas
 
-- [JDK 15](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
+- [JDK 11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
 - [Maven 3](https://maven.apache.org)
 
 ```shell
