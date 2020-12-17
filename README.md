@@ -1,6 +1,9 @@
 # springboot
 ---
 Basico de Spring Boot, usando @RequestMapping, @PostMapping(), @RestController, @RestController, @GetMapping(path = "/qualquer")
+
+[![Build Status](https://travis-ci.org/murilonerdx/springboot.svg?branch=main)](https://travis-ci.org/murilonerdx/springboot)
+[![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 ---
 - MAVEN & POM.XML
 - Web Service
@@ -19,9 +22,8 @@ Basico de Spring Boot, usando @RequestMapping, @PostMapping(), @RestController, 
 - [Maven 3](https://maven.apache.org)
 
 ```shell
-mvn spring-boot:run
+./mvnw spring-boot:run
 ```
-
 --------
 
 ### Basico
@@ -37,7 +39,7 @@ http://localhost:8080/api/produtos
 JSON Request:
 
 ```json
-[{"nome":"Murilo", "preco": 40.00, "desconto": 0.05}]
+[{"nome":"Abacate", "preco": 40.00, "desconto": 0.05}]
 ```
 JSON Response:
 ```json
