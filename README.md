@@ -20,8 +20,10 @@ Basico de Spring Boot, usando @RequestMapping, @PostMapping(), @RestController, 
 
 ```shell
 mvn spring-boot:run
-```
 
+```shell
+./mvnw spring-boot:run
+```
 --------
 
 ### Basico
