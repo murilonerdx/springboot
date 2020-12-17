@@ -4,6 +4,7 @@ Basico de Spring Boot, usando @RequestMapping, @PostMapping(), @RestController, 
 
 [![Build Status](https://travis-ci.org/murilonerdx/springboot.svg?branch=main)](https://travis-ci.org/murilonerdx/springboot)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+<p align="center"><a alt="Java" align="center"><img src="https://img.shields.io/badge/Java-v11-orange.svg" /></a></p>
 ---
 - MAVEN & POM.XML
 - Web Service
