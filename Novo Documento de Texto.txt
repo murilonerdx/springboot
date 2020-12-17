@@ -1,0 +1,8 @@
+language: java
+sudo: false
+
+jdk:
+  - oraclejdk15
+
+after_success:
+  - ./mvnw clean install
