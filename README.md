@@ -39,7 +39,7 @@ http://localhost:8080/api/produtos
 JSON Request:
 
 ```json
-[{"nome":"Murilo", "preco": 40.00, "desconto": 0.05}]
+[{"nome":"Abacate", "preco": 40.00, "desconto": 0.05}]
 ```
 JSON Response:
 ```json
