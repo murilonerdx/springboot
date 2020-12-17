@@ -12,8 +12,10 @@ Basico de Spring Boot, usando @RequestMapping, @PostMapping(), @RestController, 
 - Padrão Model - View - Controller ( MODEL = Regras de negocio, entidades, camada de acesso á dados, VIEW = Javascript, CSS, Html, Controller = Cordena o fluxo de dados entre Model e View ).
 - JPA
 - Inserir Produto, Injeção de Dependencia, Novos atributos, aplicando validações
+--------
+##Versões suportadas
 
-- [JDK 1.8](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
+- [JDK 15](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
 - [Maven 3](https://maven.apache.org)
 
 ```shell
